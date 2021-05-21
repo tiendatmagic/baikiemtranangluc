@@ -262,11 +262,7 @@ footer {
   justify-content: space-between;
   font-size: 22px;
 }
-.footer .title-footer {
-  color: #07c001;
-  font-style: italic;
-  font-size: 20px;
-}
+
 .footer p.title {
   color: #fff;
   font-size: 20px;
@@ -274,7 +270,7 @@ footer {
 .footer li {
   list-style: none;
 }
-.footer .menus-footer a {
+.footer .menu-footer a {
   color: #0b6d08;
 }
 
@@ -297,6 +293,9 @@ footer {
 
 .copyright .social .icon {
   margin: 10px;
+  color: #fff;
+}
+footer p.white {
   color: #fff;
 }
 footer span.grey {
